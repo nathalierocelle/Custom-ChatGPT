@@ -1,3 +1,3 @@
 # Custom ChatGPT
 
-![App Demo](app_gif.gif)
+![App Demo](app_demo.gif)
